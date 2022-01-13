@@ -1,0 +1,3 @@
+exports.run = (client, message, args) => {
+    message.channel.send("```Comandos do bot:\n!comandos »» Para ver os comandos do bot!\n!horario »» Mostra a hora atual!\n!rp »» Para ver suas informações do rp!\n!vips »» Para receber valores e informações dos vips!\n!sugestao + sua sugestao »» Para abrir uma votação referente a sua sugestão (so funciona no canal #💡sugestões)! \n\n\nComandos para policiais:\n!ficha + id do jogador »» Para ver ficha de um jogador!\n\n\nComandos staff:\n!reset »» Para resetar bot!```")
+}
